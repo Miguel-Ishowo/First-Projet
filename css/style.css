@@ -1,9 +1,12 @@
 body{
-margin: 0 auto;
-background: navy;
+background: rgb(1, 1, 48);
 }
 
-h1{
-    color:oldlace;
+h1,p{
+    margin:auto;
+    color:#fff;
     font-style: italic;
+    width:400px;
+    padding:20px;
+    text-align:center;
 }
